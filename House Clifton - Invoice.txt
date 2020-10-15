@@ -1,0 +1,9 @@
+Invoice for House Clifton
+
+Date Completed: 2020-06-21
+Customer Name: Caroline Brown
+Customer Address: 211 Sparry Court
+Customer Telephone: 07666 811 559
+Customer Email: cazbrown@hotmail.com
+
+Total to Pay: £2000.0

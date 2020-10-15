@@ -1,0 +1,50 @@
+Completed Project Details
+
+Project Number: 1
+
+Project Name: House Clifton
+Building Type: House
+Address: 88 Losely Close
+ERF Number: 1235
+Total Fee: 10000.0
+Total Paid to Date: 8000.0
+Deadline: 2020-06-22
+
+Architect:
+Name: Jake Morris
+Person Type: Architect
+Telephone Number: 07776 891 979
+Email Address: jakem@morrisarch.com
+Address: 56 Galley Rd
+
+Contractor Details:
+Name: Sam Doe
+Person Type: Contractor
+Telephone Number: 07745 865 999
+Email Address: sdoe@hotmail.com
+Address: 6 Arch Rd
+
+Customer Details:
+Name: Caroline Brown
+Person Type: Customer
+Telephone Number: 07666 811 559
+Email Address: cazbrown@hotmail.com
+Address: 211 Sparry Court
+
+Project Manager Details:
+Name: Lauren Hopkins
+Person Type: Project Manager
+Telephone Number: 07555 861 444
+Email Address: lhopkins@poised.com
+Address: 2 Purley Ave
+
+Structural Engineer Details:
+Name: Mich Griffith
+Person Type: Structural Engineer
+Telephone Number: 07776 891 979
+Email Address: mg@poised.com
+Address: 88 Stan Street
+
+Complete: true
+
+Completed Date: 2020-06-21
